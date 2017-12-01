@@ -18,8 +18,4 @@
 
 演示网站： http://zhibo.liangmlk.cn
 
-
-最佳范例-已帮助客户部署到了虚拟空间，并已上线 http://liangmk.16mb.com
-淘宝店铺： https://item.taobao.com/item.htm?spm=686.1000925.0.0.3f11c9edIGLsAb&id=554006765189
-
 #有需求可以联系加wx:cqwanhl
